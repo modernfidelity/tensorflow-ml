@@ -1,6 +1,6 @@
 # (1) TensorFlow developer skills
 
-[Back to Index](../)
+[Back to Index](../README.md)
 
 1. Know how to program in Python, resolve Python issues, and compile and run Python programs
 in PyCharm.
@@ -54,4 +54,4 @@ problem being solved.
 
 - T1 > T2 Migrate : https://www.tensorflow.org/tensorboard/migrate
 
-[Back to Index](../)
+[Back to Index](../README.md)

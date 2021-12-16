@@ -3,7 +3,7 @@
 The following are my notes and example Jupyter notebooks based on the Google certification course for 
 Tensorflow (2.x) and general ML/RL best practices.
 
-## 1. TensorFlow developer skills  
+## [1. TensorFlow developer skills](1.%20TensorFlow%20developer%20skills/README.md)
 
 Demonstration of an understanding on how to develop software programs using TensorFlow and
 information resources around ML. 
