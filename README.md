@@ -22,7 +22,7 @@ problem being solved.
  - Know how to save ML models and check the model file size.
  - Understand the compatibility discrepancies between different versions of TensorFlow.
 
-[Click here for more details on the above]("./1. TensorFlow developer skills/README.md")
+[Click here for more details on the above](./1. TensorFlow developer skills/README.md)
 
 ## (2) Building and training neural network models using TensorFlow 2.x
 You need to understand the foundational principles of machine learning (ML) and deep learning (DL)
