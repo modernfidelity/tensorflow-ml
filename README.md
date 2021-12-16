@@ -3,7 +3,8 @@
 The following are my notes and example Jupyter notebooks based on the Google certification course for 
 Tensorflow (2.x) and general ML/RL best practices.
 
-## (1) TensorFlow developer skills
+## 1. TensorFlow developer skills  
+
 Demonstration of an understanding on how to develop software programs using TensorFlow and
 information resources around ML. 
 
@@ -21,6 +22,7 @@ problem being solved.
  - Know how to save ML models and check the model file size.
  - Understand the compatibility discrepancies between different versions of TensorFlow.
 
+[Click here for more details on the above]("./1. TensorFlow developer skills/README.md")
 
 ## (2) Building and training neural network models using TensorFlow 2.x
 You need to understand the foundational principles of machine learning (ML) and deep learning (DL)
@@ -62,7 +64,6 @@ You need to know how to:
  - Use image augmentation to prevent overfitting.
  - Use ImageDataGenerator.
  - Understand how ImageDataGenerator labels images based on the directory structure.
-
 
 
 ## (4) Natural language processing (NLP)
