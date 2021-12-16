@@ -13,7 +13,7 @@ in PyCharm.
 2. Know how to find information about TensorFlow APIs, including how to find guides and API
 references on tensorflow.org.
 
-    **APs & Versions** : 
+    **API Docs & Versions** : 
      - https://www.tensorflow.org/api_docs
      - https://www.tensorflow.org/versions
      - https://www.tensorflow.org/guide
@@ -40,11 +40,19 @@ questions.
     - https://www.tensorflow.org/community
 
 
-5. Know how to create ML models using TensorFlow where the model size is reasonable for the
-problem being solved.
+5. Know how to create ML models using TensorFlow where the model size is reasonable for the problem being solved. 
+
+     - https://www.tensorflow.org/lite/guide/reduce_binary_size
+     - https://www.tensorflow.org/lite/performance/model_optimization
+     - https://medium.com/data-science-in-your-pocket/want-to-reduce-your-ml-model-size-try-tensorflow-lite-with-codes-17287fc0b2f
 
 
 6. Know how to save ML models and check the model file size.
+
+    - https://www.tensorflow.org/model_optimization
+    - https://www.tensorflow.org/model_optimization/guide
+    - https://www.tensorflow.org/model_optimization/guide/pruning/pruning_with_keras
+
 
 
 7. Understand the compatibility discrepancies between different versions of TensorFlow.
