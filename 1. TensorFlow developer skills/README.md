@@ -1,6 +1,6 @@
 # (1) TensorFlow developer skills
 
-[Back to Index](./)
+[Back to Index](../)
 
 1. Know how to program in Python, resolve Python issues, and compile and run Python programs
 in PyCharm.
@@ -27,10 +27,19 @@ references on tensorflow.org.
 
 3. Know how to debug, investigate, and solve error messages from the TensorFlow API.
 
+*Debugger*
+ - https://towardsdatascience.com/debugging-in-tensorflow-392b193d0b8
+ - https://www.tensorflow.org/tensorboard/debugger_v2
+ - https://www.tensorflow.org/tensorboard/get_started
 
+*Profiler*
+ - https://www.tensorflow.org/tensorboard/tensorboard_profiling_keras
+ - https://www.tensorflow.org/tensorboard/tensorboard_in_notebooks
 
 4. Know how to search beyond tensorflow.org, as and when necessary, to solve your TensorFlow
 questions.
+
+- https://www.tensorflow.org/community
 
 
 5. Know how to create ML models using TensorFlow where the model size is reasonable for the
@@ -43,5 +52,6 @@ problem being solved.
 
 7. Understand the compatibility discrepancies between different versions of TensorFlow.
 
+- T1 > T2 Migrate : https://www.tensorflow.org/tensorboard/migrate
 
-[Back to Index](./)
+[Back to Index](../)
