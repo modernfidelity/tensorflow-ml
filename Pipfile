@@ -9,6 +9,7 @@ tensorflow-recommenders = "*"
 tensorflow-datasets = "*"
 numpy = "*"
 matplotlib = "*"
+jupyter = "*"
 
 [dev-packages]
 
